@@ -20,7 +20,7 @@ I'm Vincent Zhu, IT Postgraduate @UNSW·23, specializing in AI.
 
 - 📫 Work interests: Industrial and commercial application, development and deployment of AI projects.
 
-- 🌱 Research interests: Computer Vision, AIGC, Detection, Super-Resolution.
+- 🌱 Research interests: Computer Vision, AIGC, Detection, Segmentation, Super-Resolution.
 
 - 👯 I'm actively seeking for job opportunities!
 
