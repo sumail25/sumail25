@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Vincent Zhu, IT Postgraduate @UNSW·23, specializing in AI.
+- Self-proclaimed Machine Learning Engineer with a pinch of software development experience. Keep learning.
+
+- Work interests: Industrial and commercial application, development and deployment of AI projects.
+
+- Research interests: Computer Vision, AIGC, Detection, Super-Resolution.
+
+- I'm actively seeking for job opportunities!
